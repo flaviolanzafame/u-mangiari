@@ -107,9 +107,9 @@ Scegli un'opzione (0–3): 1
 ## 👥 Team
 
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
-- **Carmelo Vicari**
+- **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
 
-> Progetto scolastico — ITET M. Rapisardi - L. da Vinci · Informatica e Telecomunicazioni · Terza superiore (2025)
+> Progetto scolastico — ITET M. Rapisardi - L. da Vinci · Informatica e telecomunicazioni · Terza superiore (2025)
 
 ---
 
@@ -121,6 +121,6 @@ Rilasciato sotto [Licenza MIT](LICENSE).
 
 <div align="center">
 
-Scritto in C++ · A presitu! 🍋
+Scritto in C++ · e con tanti arancini
 
 </div>
