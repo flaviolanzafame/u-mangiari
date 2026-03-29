@@ -1,7 +1,5 @@
 # 🍽️ 'U Mangiari
 
-### *A restaurant reservation system, written in C++.*
-
 <br>
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -11,14 +9,12 @@
 
 <br>
 
-<a href="README.it.md"><img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Leggi in italiano</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> **English**
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
+ 
+---
 
-<br>
-
-> **'U Mangiari** (*"the food"* in Sicilian) is a terminal-based restaurant reservation manager.  
-> Add bookings, check table availability, and handle special requests — all from the command line.
-
-</div>
+**'U Mangiari** (*"the food"* in Sicilian) is a terminal-based restaurant reservation manager.
+Add bookings, check table availability, and handle special requests from the command line.
 
 ---
 
