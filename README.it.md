@@ -75,19 +75,19 @@ I dati sono salvati in array paralleli (uno per campo: nome, ospiti, tavolo asse
 
 ```text
 ====== 'U MANGIARI ======
-1. Prenota un tavolo
-2. Vedi prenotazioni
-3. Stato dei tavoli
-0. Esci
+1. Make a reservation
+2. View reservations
+3. View table status
+0. Exit
 =========================
-Scegli un'opzione (0–3): 1
+Choose an option (0–3): 1
 
-  Nome ospite: Rossi
-  Numero di persone: 3
-  Richieste speciali — premi Invio per saltare: Menu senza glutine
+  Guest name: Rossi
+  Number of guests: 3
+  Special requests — press Enter to skip: Gluten-free menu
 
-  Prenotazione confermata!
-  Tavolo 2 (3 posti) — Rossi (3 ospiti)
+  Reservation confirmed!
+  Table 2 (3 seats) — Rossi (3 guests)
 ```
 
 ---
@@ -107,7 +107,7 @@ Scegli un'opzione (0–3): 1
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
 
-> Progetto scolastico — ITET M. Rapisardi - L. da Vinci · Informatica e telecomunicazioni · Terza superiore (2025)
+> Progetto scolastico — ITET M. Rapisardi - L. da Vinci · Informatica e telecomunicazioni, art. Informatica · Terza superiore (2025)
 
 ---
 
