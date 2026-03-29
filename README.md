@@ -11,7 +11,7 @@
 
 <br>
 
-🇮🇹 [Leggi in italiano](README.it.md) · 🇬🇧 **English**
+<a href="README.it.md"><img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Leggi in italiano</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> **English**
 
 <br>
 
