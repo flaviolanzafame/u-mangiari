@@ -105,7 +105,7 @@ Choose an option (0–3): 1
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
 
-> School project — ITET M. Rapisardi - L. da Vinci · Computer Science & Telecommunications · Year 3 (2025)
+> School project — ITET M. Rapisardi - L. da Vinci · Computer Science & Telecommunications, Computer Science specialization · Year 3 (2025)
 
 ---
 
