@@ -1,7 +1,5 @@
 # 🍽️ 'U Mangiari
 
-### *Un sistema di prenotazione ristorante, scritto in C++.*
-
 <br>
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -11,14 +9,12 @@
 
 <br>
 
-<a href="README.md"><img src="https://flagcdn.com/w20/gb.png" width="20"/> Read in English</a>
-&nbsp;·&nbsp;
-<img src="https://flagcdn.com/w20/it.png" width="20"/> **Italiano**
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
+ 
+---
 
-<br>
-
-> **'U Mangiari** — *"il mangiare"* in siciliano — è un gestore di prenotazioni per ristorante che gira nel terminale.  
-> Aggiungi prenotazioni, controlla i tavoli e gestisci richieste speciali, tutto da riga di comando.
+**'U Mangiari** (*"il mangiare"* in siciliano) è un gestore di prenotazioni per ristorante che gira nel terminale.  
+Aggiungi prenotazioni, controlla i tavoli e gestisci richieste speciali da riga di comando.
 
 </div>
 
