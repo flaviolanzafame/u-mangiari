@@ -1,5 +1,7 @@
 # 🍽️ 'U Mangiari
 
+<br>
+
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-CLI-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
