@@ -7,12 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
----
-
-🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
-
----
-
 **'U Mangiari** (*"the food"* in Sicilian) is a terminal-based restaurant reservation manager.
 Add bookings, check table availability, and handle special requests from the command line.
 
