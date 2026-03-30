@@ -9,7 +9,7 @@
 
 ---
 
-🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
+🌍 This README is available in:&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian**](README.it.md)
  
 ---
 
