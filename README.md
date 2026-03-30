@@ -1,16 +1,14 @@
 # 🍽️ 'U Mangiari
 
-<br>
-
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-CLI-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-<br>
+---
 
 🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
- 
+
 ---
 
 **'U Mangiari** (*"the food"* in Sicilian) is a terminal-based restaurant reservation manager.
