@@ -84,16 +84,6 @@ Choose an option (0–3): 1
 
 ---
 
-## 🔭 Possible Extensions
-
-- [ ] Cancel an existing reservation
-- [ ] Reserve a specific time slot
-- [ ] Support multiple sittings per table (lunch / dinner)
-- [ ] Save and load reservations from a file
-- [ ] Search reservations by guest name
-
----
-
 ## 👥 Team
 
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
