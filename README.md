@@ -12,7 +12,7 @@ Add bookings, check table availability, and handle special requests from the com
 
 ---
 
-## 🍴 Features
+## 📋 Features
 
 - **Make a reservation** — assign the best available table based on guest count
 - **View all reservations** — full summary with table, name, guests and notes
