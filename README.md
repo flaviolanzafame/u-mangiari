@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-**'U Mangiari** (*"the food"* in Sicilian) is a console-based restaurant reservation management system developed in C++. It allows users to make reservations, check table availability, and store special requests, with automatic table assignment based on guest count.
+**'U Mangiari** (*"the food"* in [Sicilian linguage](https://en.wikipedia.org/wiki/Sicilian_language)) is a console-based restaurant reservation management system developed in C++. It allows users to make reservations, check table availability, and store special requests, with automatic table assignment based on guest count.
 
 ---
 
